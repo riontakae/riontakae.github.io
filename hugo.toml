@@ -1,7 +1,7 @@
 baseURL = 'https://riontakae.github.io/'
 languageCode = 'ja'
 title = '伊豆永研究室'
-theme = 'beautifulhugo'
+theme = 'theme-academic-cv'
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
